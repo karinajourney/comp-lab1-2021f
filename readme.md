@@ -1,4 +1,7 @@
-This is readme.
-Chow Wing Yan, 20768256
 
-![Screenshot](src/Capture2.jpg)
+Name: Chow Wing Yan, 
+
+SID: 20768256
+
+<img src="src/Capture2.jpg" alt="Alt text" title="Optional title">
+
